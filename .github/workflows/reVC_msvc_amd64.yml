@@ -1,5 +1,4 @@
 name: reVC premake amd64
-
 on:
   pull_request:
   push:
